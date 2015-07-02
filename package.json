@@ -1,0 +1,17 @@
+{
+  "name": "gitslave",
+  "version": "0.0.0",
+  "description": "fork of gitslave from http://gitslave.sourceforge.net/ modified to work with current versions of git",
+  "main": "index.js",
+  "bin" : { "gits" : "./bin/gits" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "gits",
+    "gitslave"
+  ],
+  "author": "",
+  "license": "GPL"
+}
