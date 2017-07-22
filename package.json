@@ -1,6 +1,6 @@
 {
   "name": "gitslave",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "fork of gitslave from http://gitslave.sourceforge.net/ modified to work with current versions of git",
   "main": "index.js",
   "bin" : { "gits" : "./bin/gits" },
